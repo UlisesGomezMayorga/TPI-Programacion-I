@@ -1,9 +1,7 @@
-# TPI-Programacion-I
-
-Gestión de Datos de Países en Python
+# TPI-Programacion-I   
 
 Descripción
-Este proyecto implementa un sistema en Python 3 para gestionar información sobre países. Permite leer y escribir datos en un archivo CSV, aplicar filtros, ordenamientos y generar estadísticas
+Este proyecto implementa un sistema en python para gestionar información sobre países. Permite leer y escribir datos en un archivo CSV, aplicar filtros, ordenamientos y generar estadísticas
 
 
 Funcionalidades:
@@ -20,7 +18,7 @@ Superficie (ascendente/descendente)
 Mostrar estadísticas:País con mayor y menor población
 Promedio de población y superficie
 Cantidad de países por continente
-Persistencia: Lectura y escritura en archivo CSV.
+Lectura y escritura en archivo CSV.
 
 
 Estructura del proyecto
@@ -57,7 +55,7 @@ Alemania,83149300,357022,Europa
 
 
  Ejemplo de uso
----Menú de Gestión de Países---
+---Menú de Gestión de Países
 1. Agregar un país
 2. Actualizar población/superficie
 3. Buscar país por nombre
@@ -70,11 +68,7 @@ Alemania,83149300,357022,Europa
 
 
  Capturas
-Agrega imágenes en la carpeta capturas/ mostrando:
-
-Menú principal
-Ejemplo de agregar país
-Ejemplo de estadísticas
+Hay capturas de pantalla en la carpeta imagenes/ mostrando el menu principal y las diferentes opciones.
 
 
  Ejemplo de entrada y salida
@@ -93,7 +87,7 @@ País 'Chile' agregado correctamente.
 
 
  Instalación de dependencias
-Este proyecto no requiere librerías externas. Solo necesitas Python 3.x.
+Este proyecto no requiere librerías externas. Solo necesitas python
 
 
  Mejoras futuras
