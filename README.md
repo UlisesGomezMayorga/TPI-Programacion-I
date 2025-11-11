@@ -72,7 +72,7 @@ Alemania,83149300,357022,Europa
 
 
  Capturas
-Hay capturas de pantalla en la carpeta imagenes/ mostrando el menu principal y las diferentes opciones.
+Hay capturas de pantalla en la carpeta imagenes/menu.png mostrando el menu principal y las diferentes opciones.
 
 
  Ejemplo de entrada y salida
