@@ -1,5 +1,9 @@
 # TPI-Programacion-I   
 
+GOMEZ MAYORGA ULISES - GARAY ROCIO
+
+
+
 Descripción
 Este proyecto implementa un sistema en python para gestionar información sobre países. Permite leer y escribir datos en un archivo CSV, aplicar filtros, ordenamientos y generar estadísticas
 
