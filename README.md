@@ -62,5 +62,5 @@ Ejemplo de uso
 
 
 Integrantes
-GOMEZ MAYORGA ULISES
+GOMEZ MAYORGA ULISES - 
 GARAY ROCIO
