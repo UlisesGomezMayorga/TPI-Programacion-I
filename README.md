@@ -5,6 +5,7 @@ Gestión de Datos de Países en Python
 Descripción
   Este proyecto implementa un sistema en python para gestionar información sobre países. Permite leer y escribir datos en un archivo CSV, aplicar filtros, ordenamientos y generar estadísticas.
 
+\n
 Funcionalidades
   Agregar un país con validación de datos.
   Actualizar población y superficie.
