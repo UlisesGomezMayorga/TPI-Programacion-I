@@ -1,7 +1,10 @@
 # TPI-Programacion-I   
 
+
 GOMEZ MAYORGA ULISES - GARAY ROCIO
 
+
+VÍNCULO AL VIDEO: https://youtu.be/qZVfUsshCnA
 
 
 Descripción
